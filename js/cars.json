@@ -1,6 +1,6 @@
 [
   {
-    "photo": "../img/content/VolkTig.svg",
+    "photo": "../img/content/VolkTig.png",
     "make": "Volkswagen",
     "model": "Tiguan",
     "year": 2019,
@@ -12,7 +12,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/ToyHL.svg",
+    "photo": "../img/content/ToyHL.png",
     "make": "Toyota",
     "model": "Highlander XLE",
     "year": 2014,
@@ -24,7 +24,7 @@
     "new": true
   },
   {
-    "photo": "../img/content/lexusRX.svg",
+    "photo": "../img/content/LexusRX.png",
     "make": "Lexus",
     "model": "RX 350 LUXURY",
     "year": 2017,
@@ -36,7 +36,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/ToyHL2.svg",
+    "photo": "../img/content/ToyHL2.png",
     "make": "Toyota",
     "model": "Highlander LE A...",
     "year": 2016,
@@ -49,7 +49,7 @@
   },
 
   {
-    "photo": "../img/content/Hyund_elantr.svg",
+    "photo": "../img/content/Hyund_elanr.png",
     "make": "Hyundai",
     "model": "Elantra",
     "year": 2017,
@@ -62,7 +62,7 @@
   },
   
   {
-    "photo": "../img/content/Merc_GLE.svg",
+    "photo": "../img/content/MercGLE.png",
     "make": "Mercedes-Benz",
     "model": "GLE-Cl...",
     "year": 2016,
@@ -74,7 +74,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/Venza.svg",
+    "photo": "../img/content/Venza.png",
     "make": "Toyota",
     "model": "Venza AWD XLE...",
     "year": 2015,
@@ -86,7 +86,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/LexusRX2.svg",
+    "photo": "../img/content/LexusRX2.png",
     "make": "Lexus",
     "model": "RX 350 F-SPORT",
     "year": 2016,
@@ -98,7 +98,7 @@
     "new": true
   },
   {
-    "photo": "../img/content/VolkTig.svg",
+    "photo": "../img/content/VolkTig.png",
     "make": "Volkswagen",
     "model": "Tiguan",
     "year": 2019,
@@ -110,7 +110,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/ToyHL.svg",
+    "photo": "../img/content/ToyHL.png",
     "make": "Toyota",
     "model": "Highlander XLE",
     "year": 2014,
@@ -122,7 +122,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/lexusRX.svg",
+    "photo": "../img/content/LexusRX.png",
     "make": "Lexus",
     "model": "RX 350 LUXURY",
     "year": 2017,
@@ -134,7 +134,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/ToyHL2.svg",
+    "photo": "../img/content/ToyHL2.png",
     "make": "Toyota",
     "model": "Highlander LE A...",
     "year": 2016,
@@ -147,7 +147,7 @@
   },
 
   {
-    "photo": "../img/content/VolkTig.svg",
+    "photo": "../img/content/VolkTig.png",
     "make": "Volkswagen",
     "model": "Tiguan",
     "year": 2019,
@@ -159,7 +159,7 @@
     "new": true
   },
   {
-    "photo": "../img/content/ToyHL.svg",
+    "photo": "../img/content/ToyHL.png",
     "make": "Toyota",
     "model": "Highlander XLE",
     "year": 2014,
@@ -171,7 +171,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/lexusRX.svg",
+    "photo": "../img/content/LexusRX.png",
     "make": "Lexus",
     "model": "RX 350 LUXURY",
     "year": 2017,
@@ -183,7 +183,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/ToyHL2.svg",
+    "photo": "../img/content/ToyHL2.png",
     "make": "Toyota",
     "model": "Highlander LE A...",
     "year": 2016,
@@ -195,7 +195,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/Hyund_elantr.svg",
+    "photo": "../img/content/Hyund_elanr.png",
     "make": "Hyundai",
     "model": "Elantra",
     "year": 2017,
@@ -207,7 +207,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/Merc_GLE.svg",
+    "photo": "../img/content/LexusRX2.png",
     "make": "Mercedes-Benz",
     "model": "GLE-Cl...",
     "year": 2016,
@@ -219,7 +219,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/Venza.svg",
+    "photo": "../img/content/Venza.png",
     "make": "Toyota",
     "model": "Venza AWD XLE...",
     "year": 2015,
@@ -231,7 +231,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/LexusRX2.svg",
+    "photo": "../img/content/LexusRX2.png",
     "make": "Lexus",
     "model": "RX 350 F-SPORT",
     "year": 2016,
@@ -243,7 +243,7 @@
     "new": true
   },
   {
-    "photo": "../img/content/VolkTig.svg",
+    "photo": "../img/content/VolkTig.png",
     "make": "Volkswagen",
     "model": "Tiguan",
     "year": 2019,
@@ -255,7 +255,7 @@
     "new": false
   },
   {
-    "photo": "../img/content/ToyHL.svg",
+    "photo": "../img/content/ToyHL.png",
     "make": "Toyota",
     "model": "Highlander XLE",
     "year": 2014,
